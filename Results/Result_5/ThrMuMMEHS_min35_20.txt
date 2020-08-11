@@ -1,0 +1,10 @@
+	 Number of VMs : 1133
+	 Total running time : 4207.0 sec
+	 Total Host Activated Time : 89201.0sec
+	 Max Activated Host : 36
+	 Number of CPU SLAV : 389.0
+	 Number of Disk SLAV : 57.0
+	 Number of migration : 822
+	 Number of Host restart : 207
+	 CPU SLAV time per Active Host : 0.43609%
+	 DISK SLAV time per Active Host : 0.0639%

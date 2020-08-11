@@ -1,0 +1,10 @@
+	 Total running time : 4207.0 sec
+	 Total Host Activated Time : 72568.0sec
+	 Max Activated Host : 29
+	 Number of CPU SLAV : 1957.0
+	 Number of Disk SLAV : 136.0
+	 Number of migration : 2877
+	 Number of Host restart : 112
+	 CPU SLAV time per Active Host : 2.69678%
+	 DISK SLAV time per Active Host : 0.18741%
+	 Total Total Energy consumption : 3150.763kWh
