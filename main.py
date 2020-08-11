@@ -3,7 +3,7 @@ Cloud Simulator
 
  • Author : Moonhyun kim
  • Date : May 15 , 2020
- • Last modified date : May 28, 2020
+ • Last modified date : Aug 5, 2020
 
  • Department of Computer Science at Chungbuk National University
 """
