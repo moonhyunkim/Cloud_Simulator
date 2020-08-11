@@ -1,3 +1,13 @@
+"""
+Cloud Simulator
+
+ • Author : Moonhyun kim
+ • Date : May 22 , 2020
+ • Last modified date : Aug 2, 2020
+
+ • Department of Computer Science at Chungbuk National University
+"""
+
 from random import randrange
 from random import shuffle
 import time
