@@ -1,3 +1,13 @@
+"""
+Cloud Simulator
+
+ • Author : Moonhyun kim
+ • Date : May 22 , 2020
+ • Last modified date : jul 20, 2020
+
+ • Department of Computer Science at Chungbuk National University
+"""
+
 from random import randrange
 import time 
 import numpy as np 
